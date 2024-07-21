@@ -15,3 +15,8 @@
   <h1 class="mt-5 text-4xl text-white font-bold">Chyper Bot</h1>
   <SocialMedia />
 </div>
+
+<audio autoplay>
+  <source src="ssstik.io_1721576340003.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
