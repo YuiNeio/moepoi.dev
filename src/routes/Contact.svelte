@@ -23,7 +23,7 @@
   </div>
   <div class="bg-indigo-950 p-4 rounded-xl m-4">
     <div class="flex justify-between items-center mb-4">
-      <h2 class="text-white text-2xl font-bold">PGP Public Key</h2>
+      <h2 class="text-white text-2xl font-bold">Group Chat</h2>
       <button class="bg-white text-indigo-950 ml-5 px-4 py-2 rounded-xl" on:click={() => copyItem(publicKey)}>Copy</button>
     </div>
     <p class="hidden sm:block text-xs sm:text-sm md:text-base lg:text-lg xl:text-lg 2xl:text-lg text-white whitespace-pre-wrap">{publicKey}</p>
