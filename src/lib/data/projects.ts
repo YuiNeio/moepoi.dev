@@ -9,12 +9,12 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'Nepgear Bot',
+    title: 'Chyper Bot',
     image: 'assets/images/projects/nepgear.webp',
-    date: '23 November 2018',
+    date: '23 Juli 2024',
     categories: 'Bot',
     description:
-        'Telegram bot that allows you to search for your favorite Anime, Manga, Character with other useful features !!!',
-    url: 'https://t.me/NepgearBot'
+        'Whatsapp bot that allows you to search for your favorite image, ai, & Convert Character with other useful features !!!',
+    url: 'https://wa.link/loa8fu'
   }
 ];
