@@ -15,13 +15,3 @@
   <h1 class="mt-5 text-4xl text-white font-bold">Chyper Bot</h1>
   <SocialMedia />
 </div>
-
-  <div class="music-player">
-            <audio controls id="audio-player">
-              <source src="ssstik.io_1721576340003.mp3" type="audio/mpeg">
-              Your browser does not support the audio element.
-          </audio>
-            <div class="controls">
-                <button onclick="togglePlayPause()" id="play-pause-button">
-                  <i class="fas fa-play"></i>
-              </button>
